@@ -11,3 +11,4 @@ My First repository
 4. Dora
 5. Frozen
 6. Pokimon
+7. Frozen
